@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @surajrpanchal
+- 👀 I’m interested in Microsoft technology stacks, Gaming
+- 💻 I'm working on .Net core (ASP.Net, Web API, Windows form, HostedService), Dapper, Entity Framework Core, RabbitMQ, Micro-service
+- 🌱 I’m currently learning Front-end languages
+- 📫 How to reach me : reach out to me on twitter via @surajrpanchal
